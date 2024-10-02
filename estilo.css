@@ -1,0 +1,42 @@
+.sesion1{
+    display: grid;
+    grid-template-columns: 300px auto;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.s1c2{
+    display: flex;
+     
+}
+.sesion2{
+    background-image: url(img/IMG-karwa.jpg);
+    height: 700px;
+}
+.s2c1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+}
+.s2c1t1{
+    font-size: 50px;
+    margin-top: 200px;
+    color: rgb(0, 255, 55);
+}
+.sepor1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.seacer1{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.secont1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
